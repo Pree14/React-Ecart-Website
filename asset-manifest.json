@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Ecart-Website/static/css/main.db5bd1c0.css",
+    "main.js": "/React-Ecart-Website/static/js/main.573f0249.js",
+    "index.html": "/React-Ecart-Website/index.html",
+    "main.db5bd1c0.css.map": "/React-Ecart-Website/static/css/main.db5bd1c0.css.map",
+    "main.573f0249.js.map": "/React-Ecart-Website/static/js/main.573f0249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5bd1c0.css",
+    "static/js/main.573f0249.js"
+  ]
+}
